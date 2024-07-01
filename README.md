@@ -5,6 +5,7 @@ This is the attack implementation for the "MS-PTP: Protecting Network Timing fro
 - PTPD2
 - Wireshark
 - Python 3
+- Scapy
 
 # How to use
 
