@@ -6,4 +6,6 @@ This is the attack implementation for the "MS-PTP: Protecting Network Timing fro
 - Wireshark
 - Python 3
 
+# How to use
+
 The ieee1588.py file contains all modified packets to launch the attack. 
